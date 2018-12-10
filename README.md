@@ -3,6 +3,4 @@
 
 ======================================================================
 
-![Image text](https://github.com/shionGitHub/SoundRecorder/blob/master/record/Screenshot_20181210-115101.jpg)
-
-![Image text](https://github.com/shionGitHub/SoundRecorder/blob/master/record/Screenshot_20181210-114918.jpg)
+![Image text](https://github.com/shionGitHub/SoundRecorder/blob/master/record/Screenshot_20181210-115101.jpg) ![Image text](https://github.com/shionGitHub/SoundRecorder/blob/master/record/Screenshot_20181210-114918.jpg)
