@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">录音</string>
+    <string name="setting">设置</string>
+
+    <string-array name="arr">
+        <item>录音</item>
+        <item>列表</item>
+    </string-array>
+
+    <!-- Toolbar -->
+    <string name="action_licenses">许可证</string>
+    <string name="tab_title_record">录音</string>
+    <string name="tab_title_saved_recordings">保存录音</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">录音开始</string>
+    <string name="toast_recording_finish">录音保存到</string>
+    <string name="toast_file_delete">%1$s 成功的删除</string>
+    <string name="toast_file_exists">这个文件 %1$s 已经存在. 请选择一个不同文件名.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">录音...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">确认删除...</string>
+    <string name="dialog_text_delete">确定想要删除这个文件?</string>
+    <string name="dialog_title_licenses">开源链接</string>
+    <string name="dialog_title_share">分享文件</string>
+    <string name="dialog_title_rename">重命名文件</string>
+    <string name="dialog_title_options">种类</string>
+
+    <string name="dialog_file_share">分享文件</string>
+    <string name="dialog_file_rename">重命名文件</string>
+    <string name="dialog_file_delete">删除文件</string>
+    <string name="dialog_action_cancel">取消</string>
+    <string name="dialog_action_ok">确定</string>
+    <string name="dialog_action_yes">是</string>
+    <string name="dialog_action_no">否</string>
+
+    <string name="no_saved_recordings_message">不存储录音</string>
+    <string name="pause_recording_button">暂停</string>
+    <string name="resume_recording_button">运行</string>
+    <string name="default_file_name">My_Recording</string>
+    <string name="record_prompt">按下按钮开始录音</string>
+    <string name="record_in_progress">Recording</string>
+
+    <string name="send_to">发送到</string>
+
+    <!-- Preferences -->
+    <string name="pref_high_quality_key">pref_high_quality</string>
+    <string name="pref_high_quality_title">Enable High Quality Recording</string>
+    <string name="pref_high_quality_desc">Record in CD Quality</string>
+    <string name="pref_about_key">pref_about</string>
+    <string name="pref_about_title">About</string>
+    <string name="pref_about_desc">v%s</string>
+
+    <string name="message_permission" translatable="false">
+        "用户选择了不在提示按钮,\n获取相关权限失败,\n将导致部分功能无法正常使用，\n需要到设置页面手动授权"
+    </string>
+    <string name="go_permission">
+        去授权
+    </string>
+
+</resources>
